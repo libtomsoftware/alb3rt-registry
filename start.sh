@@ -1,0 +1,1 @@
+pm2 start index.js --name="Alb3rtRegistry" && pm2 logs Alb3rtRegistry
